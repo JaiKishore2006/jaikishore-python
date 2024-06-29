@@ -98,4 +98,17 @@
 
 #task2
 
-x=input("enter a mail")
+# email=input("enter a email address:")
+# if email.endswith("@gmail.com"):
+#   print("valid")
+# else:
+#   print("invalid")  
+
+#task3
+
+# password=input('enter a password:')
+# if password.isalnum():
+#     print("valid")
+# else:
+#     print("invalid")    
+
