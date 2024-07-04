@@ -1,0 +1,65 @@
+#map filter reduce task
+#square numbers in a list
+
+# def square(x):
+#     return x*2
+# mynumbers=(1,23,45,22,34)
+# n=map(square,mynumbers)
+# print(set(n))    
+
+#convert all strings in a list to uppercase
+
+# def uppercase(x):
+#     return(x.upper()) 
+# mystring=["encyclopedia"]
+# n=map(uppercase,mystring)
+# print(tuple(n))
+
+# def addition(x):
+#     return lambda x:x+10
+# mynumbers=[1,2,3,4,5,6,7,8]
+# n=map(addition,mynumbers)
+# print(list(n))
+
+# def capitlizet(x):
+#     return(x. title())
+
+# mylist=["jungle","india","amazon"]
+# n=map(capitlizet,mylist)
+# print(list(n))
+
+#filter out shorter than 4 in  a list.
+
+# def shortlist(x): 
+#     return x<4
+# mylist=[1,2,3,4,5,6,7,8,9,0,6,7,8,6,5,]
+# n=filter(shortlist,mylist)
+# print(list(n))
+
+#filter out nos greater than 10
+
+# def shortlist(x): 
+#      return x>10
+# mylist=[1,2,3,4,5,6,7,8,9,0,13,2,34,56,4,24,23]
+# n=filter(shortlist,mylist)
+# print(list(n))
+
+#filter out negative number in a list
+
+# def shortlist(x): 
+#       return x<0
+# mylist=[1,2,3,4,5,6,7,8,9,0,13,2,34,56,4,24,23,-12,1,-26,-22]
+# n=filter(shortlist,mylist)
+# print(list(n))
+
+
+#filter out numbers divisible by 3
+
+# def shortlist(x): 
+#       return x%3==0 
+# mylist=[1,2,3,4,5,6,7,8,9,0,13,2,34,56,4,24,23]
+# n=filter(shortlist,mylist)
+# print(list(n))
+
+
+
