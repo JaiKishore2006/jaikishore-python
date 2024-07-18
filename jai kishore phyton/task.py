@@ -1,4 +1,4 @@
-#hello bob task
+# hello bob task
 
 # mystring=("bob")
 # print("hello",mystring)
@@ -11,5 +11,14 @@
 
 #whatupupwhat task
 
+
+
+
+# def hello_name(name):
+#     return "Hello"+" "+name+"!"
+
+
+# print(hello_name("jai"))
+# print(hello_name("alice"))
 
 
